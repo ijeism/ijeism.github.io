@@ -1,7 +1,7 @@
 
 ---
-title: collaborative filtering
 layout: post
+title: Collaborative Filtering
 categories: blog
 ---
 
