@@ -56,7 +56,9 @@ This model gives us by far the highest accuracy amongst the three models, with a
 
 To visualize the accuracy of the three models, Figure 5 depicts the correlation between real target values and predicted target values of each model.
    
-![]({{site.baseurl}}//assets/p1.png) ![]({{site.baseurl}}//assets/p2.png) ![]({{site.baseurl}}//assets/p3.png)
+![]({{site.baseurl}}//assets/p1.png) 
+![]({{site.baseurl}}//assets/p2.png) 
+![]({{site.baseurl}}//assets/p3.png)
 
 *Figure 5 Correlation between predicted and real target values* 
 
