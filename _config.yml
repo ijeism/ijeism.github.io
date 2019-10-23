@@ -1,4 +1,4 @@
-title: I occasionally play around with data ..
+title: I occasionally play with data ..
 author: I. O-N
 email: ije_onwogu@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
@@ -40,8 +40,8 @@ minima:
 # Build settings
 theme: minima
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+# plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
 
 # highlighter: rouge
