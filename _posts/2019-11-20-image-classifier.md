@@ -7,6 +7,7 @@ author: I ON
 meta: Springfield
 published: true
 ---
+![]({{site.baseurl}}/assets/ship_aerial_unsplash.jpg)
 
 Much of the latest technological innovation is based on computer vision — the science behind how computers can make sense of digital images or videos. Indeed, fairly recent breakthroughs in the field of Convolutional Neural Networks (CNNs) — a powerful technology specializing in computer vision tasks — are the main drivers behind the explosion of new and improved tools used in self-driving cars, facial recognition applications, and medical diagnostic imaging. And use cases abound across industries.
 
